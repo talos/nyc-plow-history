@@ -28,7 +28,9 @@ those lines would change between commits even if the street wasn't plowed.
 
 ## What's next
 
-Automatically updating [data.beta.nyc](http://data.beta.nyc) with plow data.
+* Automatically updating [data.beta.nyc](http://data.beta.nyc) with plow data.
+* Providing a script to automate the expansion of `data.json` into separate
+  versions.
 
 ## Thanks
 
